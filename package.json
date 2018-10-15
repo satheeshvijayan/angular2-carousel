@@ -1,0 +1,109 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "angular2-carousel",
+        "scope": null,
+        "escapedName": "angular2-carousel",
+        "name": "angular2-carousel",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/sathish/redington/development/angular2"
+    ]
+  ],
+  "_from": "angular2-carousel@latest",
+  "_id": "angular2-carousel@1.0.16",
+  "_inCache": true,
+  "_location": "/angular2-carousel",
+  "_nodeVersion": "8.9.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/angular2-carousel_1.0.16_1529279198274_0.0420229958064704"
+  },
+  "_npmUser": {
+    "name": "alex-tmt",
+    "email": "alexsbd1@gmail.com"
+  },
+  "_npmVersion": "6.0.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "angular2-carousel",
+    "scope": null,
+    "escapedName": "angular2-carousel",
+    "name": "angular2-carousel",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/angular2-carousel/-/angular2-carousel-1.0.16.tgz",
+  "_shasum": "0cbaf0338d27261bd7b942df30fc8a69ec4c5f89",
+  "_shrinkwrap": null,
+  "_spec": "angular2-carousel",
+  "_where": "/home/sathish/redington/development/angular2",
+  "author": {
+    "name": "Alejandro Marcos",
+    "email": "alexsbd1@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/kappys1/angular2-carrousel/issues"
+  },
+  "dependencies": {},
+  "description": "Angular 2 Minimalist carousel",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-xbCvxTSzDR4twiwOPRBpC6CfP2WRJj4bdg3IIS7LDN8x76QSE5lJaTjwZDz8UTOJ2X7y1YBxf/5Zsa4UZTfhOw==",
+    "shasum": "0cbaf0338d27261bd7b942df30fc8a69ec4c5f89",
+    "tarball": "https://registry.npmjs.org/angular2-carousel/-/angular2-carousel-1.0.16.tgz",
+    "fileCount": 29,
+    "unpackedSize": 185602,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbJvLeCRA9TVsSAnZWagAACWwP/34fmod2JHviDYqjB7kD\nbPk7HBOG5iTlZDI23gKPEDUmvP+XRFfIlRTxfcft8YRHn02HCfe2H/4ozqSE\naLUQmk5Yhxy8r/wU3KmHJ9kzE4JXW1PAiG6EKei6zgEOQ8ypylin0DWFScDZ\nEHhcS6Av6dMyV0vl40qZ9PDZGxsDzJA4qTebZNhlePHOYM70Eb6fLNKE5dBU\nWNOj4W4mPaM1LRDtoUdMsaQTNt/SlE2Z88a8TCtqNXewyQZBJuUE2Zc3EKYc\nvzmarIj0guGmyx5et4ZXel0m9IMhOKr3P5jf/hWbN5J0r2c0gZ0/iIPchz1k\nueZdlm7+qbnhP4h7ZK884KSMV53Hkf0t+trnrUEd81C7zOq92tHBAHJR4WpP\nxOKU6OIYDGcB/qSi9HJqsFWyC3Qh4hjSdUesFlRROOQIzv9q2/MxBa6O4auE\nT6/wyJAjcIHJGn9gKgxXTCqycFsxihpld+UQQFyQW8oK0yihVd5xanfPNDzS\ng6DAH0OnScH747v/zj7JwIz5g24xPi5xw/F76AwNJ1QjlJClMWHOfUNv7B8G\nZ43Xa6u4o8O8utMuhlypE5c8tOhOnTAnfkAHTX0JRS0OxzXRsIaRe3R7ITgr\nxm5SmiMrvL1c5VBnM5q+s3+3mKRcNdPluPk1SA2sX08Htq9X7Ujg8nppfuyK\nZBtT\r\n=pTm7\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "homepage": "https://github.com/kappys1/angular2-carousel#readme",
+  "keywords": [
+    "angular",
+    "angular2",
+    "angular 2",
+    "angular 4",
+    "ng2",
+    "ngx",
+    "carousel",
+    "angular carousel"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/kappys1/angular2-carrousel/blob/master/LICENSE"
+    }
+  ],
+  "main": "bundles/ng2-carousel-module.umd.js",
+  "maintainers": [
+    {
+      "name": "alex-tmt",
+      "email": "alejandro.marcos@tmtfactory.com"
+    }
+  ],
+  "module": "index.js",
+  "name": "angular2-carousel",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "@angular/core": ">=2.0.0 ",
+    "@angular/platform-browser": ">=2.0.0",
+    "rxjs": "^5.0.1",
+    "hammerjs": "^2.0.8",
+    "@types/hammerjs": "^2.0.35"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kappys1/angular2-carousel.git"
+  },
+  "typings": "index.d.ts",
+  "version": "1.0.16"
+}
